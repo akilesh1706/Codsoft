@@ -1,0 +1,92 @@
+
+#header{
+    margin-top: 0px;
+    height: 100px;
+    width: 100vw;
+    background-color: white;
+    display: flex;
+    gap: 30px;
+    font-size: 22px;
+    padding-top: 30px;
+}
+#portfolio{
+    margin-left: 15px;
+    margin-top: 25px;
+    margin-right: 700px;
+    font-size: 40px;
+    font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto Mono', monospace;
+}
+#content{
+    height: 300px;
+    /* width: 700px; */
+    font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto Mono', monospace;
+display: flex;
+}
+.divs_1{
+    height: 450px;
+    width: 98vw;
+    background-color: cadetblue;
+    border: 5px solid red;
+    border-radius: 30px;
+    padding-left: 10px;
+}
+#whoami{
+    font-size: 40px;
+    font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto Mono', monospace;
+}
+#div_content{
+    font-size: 20px;
+}
+.image{
+    margin-left: auto;
+}
+
+.div_2{
+    height: 860px;
+    width: 98vw;
+    background-color: cadetblue;
+    border: 5px solid red;
+    border-radius: 30px;
+    padding-left: 10px;
+}
+#myprojects{
+    font-size: 40px;
+    font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto Mono', monospace;
+}
+#puzzlegame{
+    font-size: 30px;
+}
+#desc{
+    margin-left: 50px;
+    font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto Mono', monospace;
+}
+#filesharer{
+    font-size: 30px;
+}
+#calculator{
+    font-size: 30px;
+}
+#todolist{
+    font-size: 30px;
+}
+.div_3{
+    height: 260px;
+    width: 98vw;
+    background-color: cadetblue;
+    border: 5px solid red;
+    border-radius: 30px;
+    padding-left: 10px;
+}
+#contactme{
+    font-size: 30px;
+}
